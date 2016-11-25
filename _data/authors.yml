@@ -1,20 +1,13 @@
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+nuke:
+  name: Karan Rawat
+  web: http://karanrawat.in
+  email: nukeu666@gmail.com
+  bio: "Coding n Travelling"
   avatar: bio-photo-2.jpg
-  twitter: extravagantman
+  twitter: nukeu666
+  github: nukeu666@yahoo.com
   google:
-    plus: BillyRick
+    plus: nukeu666
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
