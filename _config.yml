@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Geeklog
 locale: en_US
-description: Describe your website here.
+description: Coding, Gaming and Travelling
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: http://nukeu666.github.io
 
 # Jekyll configuration
 
@@ -36,22 +36,22 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Karan Rawat
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: nukeu666@gmail.com
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: nukeu666
+  facebook: nukeu666
+  github: nukeu666@yahoo.com
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: nukeu666
   instagram: #username
   flickr: #username
   tumblr: #username
   pinterest: #username
   weibo: #userid
   google:
-    plus: #username
+    plus: nukeu666
     analytics:
     verify:
     ad-client:
