@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Geeklog
+title: Syntactic sugar and everything nice
 locale: en_US
 description: Coding, Gaming and Travelling
 logo: site-logo.png
-search: true
-url: https://nukeu666.github.io
+search: false
+url: https://karanrawat.in
 
 # Jekyll configuration
 
@@ -36,8 +36,8 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Karan Rawat
-  avatar: bio-photo.jpg
+  name: Karan R
+  #avatar: bio-photo.jpg
   email: nukeu666@gmail.com
   disqus-shortname:
   twitter: nukeu666
@@ -52,7 +52,7 @@ owner:
   weibo: #userid
   google:
     plus: nukeu666
-    analytics:
+    analytics: UA-62867643-1
     verify:
     ad-client:
     ad-slot:

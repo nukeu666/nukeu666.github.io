@@ -1,16 +1,13 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Travel
+  url: /travel/
 
-- title: Articles
-  url: /articles/
+- title: Coding
+  url: /coding/
 
-- title: Blog
-  url: /blog/
+- title: Personal
+  url: /etc/
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
-  url: /search/
+- title: Reviews
+  url: /reviews/
