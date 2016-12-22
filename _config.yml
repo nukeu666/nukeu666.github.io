@@ -1,9 +1,12 @@
 # Site wide configuration
 
-title: Syntactic sugar and everything nice
+title: Syntactic sugar and Everything nice
 locale: en_US
 description: Coding, Gaming and Travelling
 logo: blog-header2.jpg
+logoinfo:
+  credit: Neha RB
+  creditlink: http://www.facebook.com/neharawatart
 search: false
 url: https://karanrawat.in
 
